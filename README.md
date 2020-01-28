@@ -18,7 +18,7 @@ The resulting artifact is a responsive web page that looks like this :
 
 ## Demonstration
 
-The page has been published in surge site.
+The site has been published in [Surge](https://surge.sh/) : [tailwindcss-trial.surge.sh](https://tailwindcss-trial.surge.sh/)
 You cann freely access it and test the page.
 
 ## Install
@@ -40,3 +40,7 @@ Then, open index.html file in your favorite web browser.
 [Tailwind CSS Tutorial](https://scrimba.com/p/pdq3QsM/cPJZqqC3)
 
 [Tailwind CSS Official Site](https://tailwindcss.com/)
+
+[Surge](https://surge.sh/)
+
+[Demo site](https://tailwindcss-trial.surge.sh/)
