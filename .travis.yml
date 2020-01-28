@@ -1,0 +1,22 @@
+dist: trusty
+
+language: node_js
+
+node_js:
+  - "10"
+
+branches:
+  only:
+    - master
+
+install:
+  - echo 'Install step'
+
+script:
+  - echo 'Script step'
+
+deploy:
+  - provider: surge
+    project: ./dist/angular-brotli/
+    domain: tailwindcss-trial.surge.sh
+    on: master
