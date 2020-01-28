@@ -17,6 +17,6 @@ script:
 
 deploy:
   - provider: surge
-    project: ./dist/angular-brotli/
+    project: ./dist/
     domain: tailwindcss-trial.surge.sh
     on: master
