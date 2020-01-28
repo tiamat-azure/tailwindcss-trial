@@ -19,7 +19,7 @@ The resulting artifact is a responsive web page that looks like this :
 ## Demonstration
 
 The site has been published in [Surge](https://surge.sh/) : [tailwindcss-trial.surge.sh](https://tailwindcss-trial.surge.sh/)
-You cann freely access it and test the page.
+You can freely access it and test the page.
 
 ## Install
 
