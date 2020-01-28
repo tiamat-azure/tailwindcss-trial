@@ -1,17 +1,40 @@
-# Final Course Project - Landing Page
+# Getting started with Tailwind CSS framework
 
-## Supporting Scrimba
+## Tutorial
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+Tutorial can be found in [Scrimba - Tailwind CSS](https://scrimba.com/p/pdq3QsM/cPJZqqC3) for free.
 
-- [Become a professional React developer](https://scrimba.com/g/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/g/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/g/gjavascript)
+## Artifact
 
-	It would also mean the world to us if you share the courses.  
+The resulting responsive web page looks like this :
 
-Happy Coding!
-# tailwindcss-trial
+_wide screen rendering_
+![Demo large screen](images/demo-lg.png)
+
+_small screen rendering_
+![Demo small screen](images/demo-sm.png)
+
+## Demonstration
+
+The page has been published in surge site.
+You cann freely access it and test the page.
+
+## Install
+
+You can install and test the page locally.
+
+First, clone this git repository :
+
+```bash
+git clone https://github.com/tiamat-azure/tailwindcss-trial.git
+```
+
+Then, open index.html file in your favorite web browser.
+
+## Bibliography
+
+[Scrimba Tutorial Plateform](https://scrimba.com)
+
+[Tailwind CSS Tutorial](https://scrimba.com/p/pdq3QsM/cPJZqqC3)
+
+[Tailwind CSS Official Site](https://tailwindcss.com/)
