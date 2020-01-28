@@ -6,12 +6,14 @@ Tutorial can be found in [Scrimba - Tailwind CSS](https://scrimba.com/p/pdq3QsM/
 
 ## Artifact
 
-The resulting responsive web page looks like this :
+The resulting artifact is a responsive web page which looks like this :
 
-_wide screen rendering_
+### Wide screen rendering
+
 ![Demo large screen](images/demo-lg.png)
 
-_small screen rendering_
+### Small screen rendering
+
 ![Demo small screen](images/demo-sm.png)
 
 ## Demonstration
