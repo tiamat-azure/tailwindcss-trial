@@ -14,10 +14,10 @@ install:
 
 script:
   - echo 'Script step'
-  - mkdir dist
-  - mkdir dist/images
-  - cp favicon.ico index.html normalize.css dist/
-  - cp images/tailwind-logo.png dist/images/
+  - mkdir dist && mkdir dist/images && mkdir dist/css
+  - cp src/main/webapp/css/*.css  dist/css/
+  - cp src/main/webapp/images/*.*  dist/images/
+  - cp src/main/webapp/*.* dist/
 
 deploy:
   - provider: surge
